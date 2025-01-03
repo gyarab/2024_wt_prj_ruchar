@@ -15,3 +15,4 @@ Seznam autorů lze filtrovat dle času ve kterém byl autor živý (od roku do r
 Hlavní menu obsahuje odkaz na homepage (seznam obrazů) a odkaz na seznam autorů. Oba seznamy mají v hlavičce vyhledávání spolu s tlačítkem na filtrování (seznam autorů a filmů mají jiné filtrování)
 
 ## Wireframes
+![Wireframe](https://github.com/gyarab/2024_wt_prj_ruchar/blob/main/Wireframe.jpg)

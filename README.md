@@ -18,4 +18,4 @@ Hlavní menu obsahuje odkaz na homepage (seznam obrazů) a odkaz na seznam autor
 ![Wireframe](https://github.com/gyarab/2024_wt_prj_ruchar/blob/main/Wireframe.jpg)
 
 ## DB Schéma
-
+![DB Schéma](https://github.com/gyarab/2024_wt_prj_ruchar/blob/main/DB%20SCHEMA.jpg)

@@ -12,7 +12,7 @@ Na homepage je seznam obrazů, který je po kliknutí na tlačítko nastavení (
 
 Seznam autorů lze filtrovat dle času ve kterém autor žil (od roku do roku) a národnosti (ze seznamu národností). Seznam tvoří karty, na kterých je fotka / portrét autora, jeho jméno a rok narození až rok smrti. Kliknutím na kartičku se zobrazí stránka detailu autora, kde se zobrazují všechny jeho atributy a odkud je možné prokliknout národnost (vede na seznam autorl s vyfiltrovanou národností) nebo libovolný obraz (vede na detail obrazu).
 
-Hlavní menu obsahuje odkaz na homepage (seznam obrazů) a odkaz na seznam autorů. Oba seznamy mají v hlavičce vyhledávání spolu s tlačítkem na filtrování (seznam autorů a filmů mají jiné filtrování)
+Hlavní menu obsahuje odkaz na homepage (seznam obrazů) a odkaz na seznam autorů. Oba seznamy mají v hlavičce vyhledávání spolu s tlačítkem na filtrování (seznam autorů a obrazů mají jiné filtrování)
 
 ## Wireframes
 ![Wireframe](https://github.com/gyarab/2024_wt_prj_ruchar/blob/main/Wireframe.jpg)

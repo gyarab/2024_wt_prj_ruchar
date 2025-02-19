@@ -64,5 +64,4 @@ while(1):
         print("Nepovolená hodnota, prosím zadejte jinou.")
         value = 0
         break
-        
-
+    

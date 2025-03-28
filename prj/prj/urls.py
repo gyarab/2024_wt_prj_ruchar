@@ -22,8 +22,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', TemplateView.as_view(template_name='main/homepage.html')),
     path('base', TemplateView.as_view(template_name='main/base.html')),
-    path('one', TemplateView.as_view(template_name='main/one.html')),
-    path('two', TemplateView.as_view(template_name='main/two.html')),
+    path('paintings', TemplateView.as_view(template_name='main/one.html')),
+    path('authors', TemplateView.as_view(template_name='main/two.html')),
 
 
 ]

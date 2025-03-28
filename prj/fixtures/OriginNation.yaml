@@ -1,0 +1,36 @@
+- model: main.originnation
+  pk: 2
+  fields:
+    name: USA
+- model: main.originnation
+  pk: 3
+  fields:
+    name: Francie
+- model: main.originnation
+  pk: 4
+  fields:
+    name: Anglie
+- model: main.originnation
+  pk: 5
+  fields:
+    name: Německo
+- model: main.originnation
+  pk: 6
+  fields:
+    name: Rakousko
+- model: main.originnation
+  pk: 7
+  fields:
+    name: Itálie
+- model: main.originnation
+  pk: 8
+  fields:
+    name: Španělsko
+- model: main.originnation
+  pk: 9
+  fields:
+    name: Nizozemsko
+- model: main.originnation
+  pk: 10
+  fields:
+    name: Norsko

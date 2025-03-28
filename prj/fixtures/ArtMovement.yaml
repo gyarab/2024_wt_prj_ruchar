@@ -1,0 +1,52 @@
+- model: main.artmovement
+  pk: 1
+  fields:
+    name: Impresionismus
+- model: main.artmovement
+  pk: 2
+  fields:
+    name: Renesance
+- model: main.artmovement
+  pk: 3
+  fields:
+    name: Manýrismus
+- model: main.artmovement
+  pk: 4
+  fields:
+    name: Expresionismus
+- model: main.artmovement
+  pk: 5
+  fields:
+    name: Realismus
+- model: main.artmovement
+  pk: 6
+  fields:
+    name: Surrealismus
+- model: main.artmovement
+  pk: 8
+  fields:
+    name: Secese
+- model: main.artmovement
+  pk: 9
+  fields:
+    name: Kubismus
+- model: main.artmovement
+  pk: 10
+  fields:
+    name: Gotika
+- model: main.artmovement
+  pk: 11
+  fields:
+    name: Symbolismus
+- model: main.artmovement
+  pk: 12
+  fields:
+    name: Abstrakce
+- model: main.artmovement
+  pk: 13
+  fields:
+    name: Suprematismus
+- model: main.artmovement
+  pk: 14
+  fields:
+    name: Baroko

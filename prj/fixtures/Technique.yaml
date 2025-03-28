@@ -1,0 +1,40 @@
+- model: main.technique
+  pk: 1
+  fields:
+    name: Olejomalba
+- model: main.technique
+  pk: 2
+  fields:
+    name: Akt
+- model: main.technique
+  pk: 3
+  fields:
+    name: Portrét
+- model: main.technique
+  pk: 4
+  fields:
+    name: Autoportrét
+- model: main.technique
+  pk: 5
+  fields:
+    name: Krajinomalba
+- model: main.technique
+  pk: 6
+  fields:
+    name: Kresba
+- model: main.technique
+  pk: 7
+  fields:
+    name: Plastika
+- model: main.technique
+  pk: 8
+  fields:
+    name: Skulptura
+- model: main.technique
+  pk: 9
+  fields:
+    name: Reliéf
+- model: main.technique
+  pk: 10
+  fields:
+    name: Koláž

@@ -1,0 +1,34 @@
+- model: main.painting
+  pk: 1
+  fields:
+    name: Mona Lisa
+    year: 1506
+    description: Mona Lisa, též oznaèovaná La Gioconda (portrétovaná žena se pravdìpodobnì
+      jmenovala Lisa del Giocondo), je patrnì nejslavnìjší portrét všech dob.
+    author: 1
+    origin_nation: 7
+    art_movement: 2
+    technique: 1
+- model: main.painting
+  pk: 2
+  fields:
+    name: Hvìzdná noc
+    year: 1889
+    description: Hvìzdná noc (nizozemsky De sterrennacht) je obraz od nizozemského
+      postimpresionisty Vincenta van Gogha, na nìmž pøevládají barvy noci.
+    author: 2
+    origin_nation: 3
+    art_movement: 15
+    technique: 1
+- model: main.painting
+  pk: 3
+  fields:
+    name: Snídanì veslaøù
+    year: 1880
+    description: Snídanì veslaøù (francouzsky Le Déjeuner des canotiers) je olejomalba
+      francouzského malíøe Augusta Renoira znázoròující osoby z malíøova okruhu snídající
+      na terase podniku Maison Fournaise v Chatou.
+    author: 3
+    origin_nation: 3
+    art_movement: 1
+    technique: 1

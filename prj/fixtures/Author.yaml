@@ -1,0 +1,31 @@
+- model: main.author
+  pk: 1
+  fields:
+    name: Leonardo da Vinci
+    birth_year: 1452
+    death_year: 1519
+    nationality: 4
+    profession: malíø
+    description: Leonardo da Vinci byl italský malíø, èelný pøedstavitel renesanèní
+      malby, mimo jiné autor nejslavnìjšího obrazu všech dob, portrétu zvaného Mona
+      Lisa.
+- model: main.author
+  pk: 2
+  fields:
+    name: Vincent van Gogh
+    birth_year: 1853
+    death_year: 1890
+    nationality: 6
+    profession: malíø
+    description: Vincent van Gogh byl slavný nizozemský malíø. Jedná se o jednu z
+      nejvìtších osobností svìtového výtvarného umìní.
+- model: main.author
+  pk: 3
+  fields:
+    name: Pierre-Auguste Renoir
+    birth_year: 1841
+    death_year: 1919
+    nationality: 2
+    profession: malíø
+    description: byl francouzský impresionistický malíø. Jeho obrazy vyjadøují radost
+      ze života.

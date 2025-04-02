@@ -1,0 +1,15 @@
+- model: main.movementpainting
+  pk: 1
+  fields:
+    movement: 2
+    painting: 1
+- model: main.movementpainting
+  pk: 2
+  fields:
+    movement: 1
+    painting: 3
+- model: main.movementpainting
+  pk: 3
+  fields:
+    movement: 15
+    painting: 2

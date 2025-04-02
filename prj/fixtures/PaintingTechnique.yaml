@@ -1,0 +1,15 @@
+- model: main.paintingtechnique
+  pk: 1
+  fields:
+    technique: 1
+    painting: 1
+- model: main.paintingtechnique
+  pk: 2
+  fields:
+    technique: 1
+    painting: 2
+- model: main.paintingtechnique
+  pk: 3
+  fields:
+    technique: 1
+    painting: 3

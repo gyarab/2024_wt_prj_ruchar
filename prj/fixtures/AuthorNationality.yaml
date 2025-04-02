@@ -1,0 +1,15 @@
+- model: main.authornationality
+  pk: 1
+  fields:
+    author: 1
+    nationality: 4
+- model: main.authornationality
+  pk: 2
+  fields:
+    author: 2
+    nationality: 6
+- model: main.authornationality
+  pk: 3
+  fields:
+    author: 3
+    nationality: 2

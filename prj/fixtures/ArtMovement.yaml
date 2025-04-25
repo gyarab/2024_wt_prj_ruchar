@@ -9,7 +9,7 @@
 - model: main.artmovement
   pk: 3
   fields:
-    name: Manýrismus
+    name: ManÃ½rismus
 - model: main.artmovement
   pk: 4
   fields:

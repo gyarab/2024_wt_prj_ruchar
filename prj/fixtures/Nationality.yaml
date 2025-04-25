@@ -1,7 +1,7 @@
 - model: main.nationality
   pk: 1
   fields:
-    name: Španìlsko
+    name: Å panÄ›lsko
 - model: main.nationality
   pk: 2
   fields:
@@ -9,11 +9,11 @@
 - model: main.nationality
   pk: 3
   fields:
-    name: Èesko
+    name: ÄŒesko
 - model: main.nationality
   pk: 4
   fields:
-    name: Itálie
+    name: ItÃ¡lie
 - model: main.nationality
   pk: 5
   fields:

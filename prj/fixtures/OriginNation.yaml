@@ -13,7 +13,7 @@
 - model: main.originnation
   pk: 5
   fields:
-    name: Nìmecko
+    name: NÄ›mecko
 - model: main.originnation
   pk: 6
   fields:
@@ -21,11 +21,11 @@
 - model: main.originnation
   pk: 7
   fields:
-    name: Itálie
+    name: ItÃ¡lie
 - model: main.originnation
   pk: 8
   fields:
-    name: Španìlsko
+    name: Å panÄ›lsko
 - model: main.originnation
   pk: 9
   fields:

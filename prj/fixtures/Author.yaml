@@ -5,9 +5,9 @@
     birth_year: 1452
     death_year: 1519
     nationality: 4
-    profession: malíø
-    description: Leonardo da Vinci byl italskı malíø, èelnı pøedstavitel renesanèní
-      malby, mimo jiné autor nejslavnìjšího obrazu všech dob, portrétu zvaného Mona
+    profession: malÃ­Å™
+    description: Leonardo da Vinci byl italskÃ½ malÃ­Å™, ÄelnÃ½ pÅ™edstavitel renesanÄnÃ­
+      malby, mimo jinÃ© autor nejslavnÄ›jÅ¡Ã­ho obrazu vÅ¡ech dob, portrÃ©tu zvanÃ©ho Mona
       Lisa.
 - model: main.author
   pk: 2
@@ -16,9 +16,9 @@
     birth_year: 1853
     death_year: 1890
     nationality: 6
-    profession: malíø
-    description: Vincent van Gogh byl slavnı nizozemskı malíø. Jedná se o jednu z
-      nejvìtších osobností svìtového vıtvarného umìní.
+    profession: malÃ­Å™
+    description: Vincent van Gogh byl slavnÃ½ nizozemskÃ½ malÃ­Å™. JednÃ¡ se o jednu z
+      nejvÄ›tÅ¡Ã­ch osobnostÃ­ svÄ›tovÃ©ho vÃ½tvarnÃ©ho umÄ›nÃ­.
 - model: main.author
   pk: 3
   fields:
@@ -26,6 +26,6 @@
     birth_year: 1841
     death_year: 1919
     nationality: 2
-    profession: malíø
-    description: byl francouzskı impresionistickı malíø. Jeho obrazy vyjadøují radost
-      ze ivota.
+    profession: malÃ­Å™
+    description: byl francouzskÃ½ impresionistickÃ½ malÃ­Å™. Jeho obrazy vyjadÅ™ujÃ­ radost
+      ze Å¾ivota.

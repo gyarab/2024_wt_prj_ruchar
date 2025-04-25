@@ -3,7 +3,13 @@
 {% block content %}
 <div class="container">
     <h1>Homepage</h1>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Praesent vitae arcu tempor neque lacinia pretium. Aliquam erat volutpat. Mauris dolor felis, sagittis at, luctus sed, aliquam non, tellus. Fusce consectetuer risus a nunc. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat. Fusce consectetuer risus a nunc. Fusce suscipit libero eget elit. Aenean fermentum risus id tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. </p>
+    <p>Dnes ma svatek {{svatek}}</p>
+
+    {% for painting in paintings %}
+        <h2> {{painting.name}} ({{painting.year}})</h2>
+        <h3> {{painting.author}}</h3>
+
+    {% endfor %}
 </div>
 
 {% endblock %}

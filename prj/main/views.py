@@ -16,7 +16,6 @@ def get_homepage(request):
         paintings = paintings.filter(art_movement__name=art_movement)
 
     context = {
-        "svatek": "Marek",
         "paintings": paintings,
         "art_movements": ArtMovement.objects.all().order_by('name'),
     }
@@ -25,9 +24,9 @@ def get_homepage(request):
         request, "main/homepage.html", context
         )
 
-def get_painting(request, id):
-    painting = Painting.objects.get(id=id)
+def get_painting(request, pk):
+    painting = Painting.objects.get(pk=pk)
     context = {
         "painting": painting,
     }
-    return render(request, "main/painting.html", context)
+    return render(request, "main/detail.html", context)

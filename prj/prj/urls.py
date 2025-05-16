@@ -17,14 +17,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.views.generic import TemplateView
-from main.views import get_homepage
+from main.views import get_homepage, get_painting
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', get_homepage),
+    path('', get_homepage, name='homepage'),
     path('base', TemplateView.as_view(template_name='main/base.html')),
     path('paintings', TemplateView.as_view(template_name='main/one.html')),
     path('authors', TemplateView.as_view(template_name='main/two.html')),
-
+    path('painting/<int:pk>', get_painting, name='painting'),
 
 ]

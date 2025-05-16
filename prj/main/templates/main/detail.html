@@ -1,0 +1,52 @@
+{% extends 'main/base.html' %}
+
+
+{% block content %}
+
+    <div class="row my-3">
+        <div class="col">
+            <a href="{% url 'homepage' %}" class="btn btn-outline-primary">Zpět</a>
+        </div>
+    </div>
+    <hr>
+
+    <h1>{{ painting.name }}</h1>
+
+    <p>
+        {% if painting.main_picture %}
+            <img src="{{painting.main_picture}}" alt="Painting" class="img-fluid">
+        {% else %}
+            <img src="//place-hold.it/180x100/" alt="Painting" class="img-fluid">
+        {% endif %}
+    </p>
+
+    <p>
+        {% if painting.author %}
+            <h6>{{ painting.author }} ({{ painting.author.birth_year }})</h6>
+        {% endif %}
+
+        {% if painting.year %}
+            <h6>Rok vzniku: {{ painting.year }}</h6>
+        {% endif %}
+
+        {% if painting.origin_nation %}
+            <h6>Země vzniku: {{painting.origin_nation}} </h6>    
+        {% endif %}
+
+        {% if painting.art_movement %}
+            <h6>Umělecký směr: {{painting.art_movement}} </h6>    
+        {% endif %}
+
+        {% if painting.technique %}
+            <h6>Technika: {{painting.techique}} </h6>    
+        {% endif %}
+
+        <p>
+            {{movie.description}}
+        </p>
+        
+        <!-- {% for genre in movie.genres.all %}
+            <span class="badge bg-primary">{{ genre.name }}</span>
+        {% endfor %} -->
+
+{% endblock %}

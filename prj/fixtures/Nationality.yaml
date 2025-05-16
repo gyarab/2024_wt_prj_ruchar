@@ -26,3 +26,15 @@
   pk: 7
   fields:
     name: Niger
+- model: main.nationality
+  pk: 8
+  fields:
+    name: Norsko
+- model: main.nationality
+  pk: 9
+  fields:
+    name: Katalánsko
+- model: main.nationality
+  pk: 10
+  fields:
+    name: USA

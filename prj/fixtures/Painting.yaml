@@ -32,3 +32,101 @@
     origin_nation: 3
     art_movement: 1
     technique: 1
+- model: main.painting
+  pk: 4
+  fields:
+    name: Guernica
+    year: 1937
+    description: Monumentální protiválečné dílo Pabla Picassa zachycující hrůzy bombardování
+      města Guernica.
+    author: 5
+    origin_nation: 8
+    art_movement: 9
+    technique: 1
+- model: main.painting
+  pk: 5
+  fields:
+    name: Výkřik
+    year: 1893
+    description: Expresionistické dílo Edvarda Muncha zobrazující postavu v panice
+      na mostě pod dramatickou oblohou.
+    author: 4
+    origin_nation: 10
+    art_movement: 4
+    technique: 1
+- model: main.painting
+  pk: 6
+  fields:
+    name: Zrození Venuše
+    year: 1486
+    description: Renesanční obraz Sandra Botticelliho zobrazující bohyni Venuši vystupující
+      z moře.
+    author: 6
+    origin_nation: 7
+    art_movement: 2
+    technique: 1
+- model: main.painting
+  pk: 7
+  fields:
+    name: Nocní hlídka
+    year: 1642
+    description: Barokní mistrovské dílo Rembrandta van Rijna, které zachycuje městskou
+      domobranu v dramatickém osvětlení.
+    author: 7
+    origin_nation: 9
+    art_movement: 14
+    technique: 3
+- model: main.painting
+  pk: 8
+  fields:
+    name: Americká gotika
+    year: 1930
+    description: Známý obraz Granta Wooda zachycující farmářský pár před jejich domem
+      ve stylu gotické obnovy.
+    author: 8
+    origin_nation: 2
+    art_movement: 5
+    technique: 1
+- model: main.painting
+  pk: 9
+  fields:
+    name: Imprese, východ slunce
+    year: 1872
+    description: Obraz Clauda Moneta, který dal název impresionismu a zachycuje ranní
+      světlo v přístavu Le Havre.
+    author: 9
+    origin_nation: 3
+    art_movement: 1
+    technique: 1
+- model: main.painting
+  pk: 10
+  fields:
+    name: Zahrada pozemských slastí
+    year: 1505
+    description: Triptych Hieronyma Bosche zobrazující ráj, zemi plnou hříchů a peklo
+      ve fantaskní vizuální formě.
+    author: 10
+    origin_nation: 9
+    art_movement: 2
+    technique: 1
+- model: main.painting
+  pk: 11
+  fields:
+    name: Persistence paměti
+    year: 1931
+    description: Slavný surrealistický obraz Salvadora Dalího s roztékajícími se hodinami
+      symbolizujícími relativitu času.
+    author: 10
+    origin_nation: 8
+    art_movement: 6
+    technique: 1
+- model: main.painting
+  pk: 12
+  fields:
+    name: Dáma s hranostajem
+    year: 1489
+    description: Portrét Cecilie Gallerani od Leonarda da Vinciho držící bílého hranostaje.
+    author: 1
+    origin_nation: 3
+    art_movement: 2
+    technique: 3

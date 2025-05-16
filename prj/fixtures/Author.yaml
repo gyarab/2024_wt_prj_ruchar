@@ -29,3 +29,84 @@
     profession: malíř
     description: byl francouzský impresionistický malíř. Jeho obrazy vyjadřují radost
       ze života.
+- model: main.author
+  pk: 4
+  fields:
+    name: Edvard Munch
+    birth_year: 1863
+    death_year: 1944
+    nationality: 8
+    profession: malíř
+    description: Edvard Munch byl norský expresionistický malíř a grafik, jehož nejslavnější
+      dílo Výkřik se stalo ikonou existenciální úzkosti.
+- model: main.author
+  pk: 5
+  fields:
+    name: Pablo Picasso
+    birth_year: 1881
+    death_year: 1973
+    nationality: 1
+    profession: malíř
+    description: Pablo Picasso byl španělský malíř a spoluzakladatel kubismu, který
+      radikálně změnil podobu moderního umění.
+- model: main.author
+  pk: 6
+  fields:
+    name: Sandro Botticelli
+    birth_year: 1445
+    death_year: 1510
+    nationality: 4
+    profession: malíř
+    description: Sandro Botticelli byl italský malíř rané renesance známý svými alegorickými
+      a mytologickými obrazy, jako je Zrození Venuše.
+- model: main.author
+  pk: 7
+  fields:
+    name: Rembrandt van Rijn
+    birth_year: 1606
+    death_year: 1669
+    nationality: 6
+    profession: malíř
+    description: Rembrandt van Rijn byl nizozemský barokní malíř a grafik proslulý
+      svým mistrovským zvládnutím světla a stínu.
+- model: main.author
+  pk: 8
+  fields:
+    name: Grant Wood
+    birth_year: 1891
+    death_year: 1942
+    nationality: 10
+    profession: malíř
+    description: Grant Wood byl americký malíř známý svým dílem Americká gotika, ikonickým
+      obrazem amerického venkova.
+- model: main.author
+  pk: 9
+  fields:
+    name: Claude Monet
+    birth_year: 1840
+    death_year: 1926
+    nationality: 2
+    profession: malíř
+    description: Claude Monet byl francouzský impresionistický malíř, jehož dílo Imprese,
+      východ slunce dalo název celému směru impresionismu.
+- model: main.author
+  pk: 10
+  fields:
+    name: Hieronymus Bosch
+    birth_year: 1450
+    death_year: 1516
+    nationality: 6
+    profession: malíř
+    description: Hieronymus Bosch byl nizozemský malíř známý svými fantastickými a
+      často morálně laděnými výjevy, jaké lze vidět například v Zahradě pozemských
+      rozkoší.
+- model: main.author
+  pk: 11
+  fields:
+    name: Salvador Dalí
+    birth_year: 1904
+    death_year: 1989
+    nationality: 9
+    profession: malíř
+    description: Salvador Dalí byl španělský surrealistický umělec známý svými snovými
+      výjevy, roztékajícími se hodinami a excentrickým vystupováním.
